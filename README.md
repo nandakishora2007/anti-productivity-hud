@@ -1,4 +1,4 @@
-# 🎯 ANTI-PRODUCTIVITY HUD
+#  ANTI-PRODUCTIVITY HUD
 
 > *The context-aware computer vision sabotaging suite designed to forcibly cure unhealthy overworking habits.*
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 💡 The "Useless Project" Philosophy
+##  The "Useless Project" Philosophy
 
 ### The Problem (that nobody asked to solve)
 Modern knowledge workers and developers suffer from a dangerous addiction: **chronic productivity**. Uncontrolled urges to write clean code, study academic papers, and close Jira tickets lead to burnout, caffeine dependency, and a tragic lack of cat video consumption.
@@ -43,25 +43,25 @@ The moment you sit down, focus on your IDE, or touch a keyboard, the HUD detects
 
 ## ⚡ How It Distracts You (Key Features)
 
-- 👁️ **Computer Vision Surveillance (`YOLOv8` + `OpenCV`)**:
+-  **Computer Vision Surveillance (`YOLOv8` + `OpenCV`)**:
   Continuously monitors your webcam feed for productivity instruments: laptops, keyboards, mice, books, and attentive human faces.
-- 🎯 **Context-Aware Distraction Routing**:
+-  **Context-Aware Distraction Routing**:
   Unlike generic blockers, Anti-Productivity HUD tailors its distractions to what you are doing:
   - **Coding Hazard Detected** (VS Code, Neovim, PyCharm, Terminal): Forcibly deploys programming parodies (*Silicon Valley Tabs vs Spaces*, *Every Programming Tutorial Ever*), 10 hours of Windows XP error remixes, or Rickrolls.
   - **Studying / Reading Detected** (PDFs, research papers, documentation, physical books): Forcibly deploys existential physics rabbit holes (*Kurzgesagt*, *Veritasium*, *Vsauce*) or deep relaxation meditations.
   - **General Productivity Detected** (Excel, Slack, Jira, Trello): Deploys hilarious viral animal fails, cat malfunction videos, and epic sax loops.
-- 🛡️ **Autonomous Slacking Detection**:
+-  **Autonomous Slacking Detection**:
   If your frontmost window is already YouTube, Twitch, Netflix, Reddit, or Steam, the HUD automatically suppresses itself with a `🛡️ Suppressed` status badge—congratulating you for taking work avoidance seriously.
-- 🧵 **Multi-Threaded Architecture (`QThread` Decoupling)**:
+-  **Multi-Threaded Architecture (`QThread` Decoupling)**:
   The entire computer vision inference loop (frame grabbing, YOLO prediction, Haar/MediaPipe face tracking) runs on a background worker thread. The PyQt6 main thread remains 100% responsive at 60 FPS with silky-smooth frameless dragging.
-- 🔊 **Text-to-Speech Audio Shaming (`pyttsx3`)**:
+-  **Text-to-Speech Audio Shaming (`pyttsx3`)**:
   Synthesizes urgent voice warnings (*"Emergency! Excessive coding detected. Drop the IDE and touch grass immediately!"*) across your speakers to shatter your hyperfocus.
-- 🎨 **Modern Glassmorphism UI**:
-  Translucent frosted glass background, dynamic status pills, one-click Light/Dark theme toggle, audio mute/unmute switch, and an emergency manual `🎯 Distract Me!` button.
+-  **Modern Glassmorphism UI**:
+  Translucent frosted glass background, dynamic status pills, one-click Light/Dark theme toggle, audio mute/unmute switch, and an emergency manual `Distract Me!` button.
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before installing, ensure your system meets the following requirements:
 
@@ -78,7 +78,7 @@ Before installing, ensure your system meets the following requirements:
 
 ---
 
-## 🚀 Step-by-Step Setup Instructions
+##  Step-by-Step Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -119,7 +119,7 @@ python -c "from ultralytics import YOLO; YOLO('yolov8n.pt')"
 
 ---
 
-## 🎮 Usage & Controls
+##  Usage & Controls
 
 Launch the Anti-Productivity HUD:
 
@@ -140,7 +140,7 @@ python app.py
 
 ---
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ```mermaid
 flowchart TD
