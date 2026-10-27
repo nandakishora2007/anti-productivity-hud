@@ -27,17 +27,11 @@ The moment you sit down, focus on your IDE, or touch a keyboard, the HUD detects
 ### 1. Work Detected (Productivity Strike Imminent)
 *The HUD detects the user's face, coding tools (keyboard, laptop), and an open code editor (`handler.py`), arming the distraction roulette with a live cooldown countdown.*
 
-![HUD Detecting Work over IDE Workstation](images/3.png)
-
 ### 2. Standalone Glassmorphism Interface
 *Ultra-smooth, iOS-inspired translucent card interface with real-time YOLOv8 bounding boxes, telemetry indicators, and interactive control pills.*
 
-![Standalone HUD Interface](images/2.png)
-
 ### 3. Slacking Protection Mode (Suppressed)
 *When the user is properly slacking off on YouTube, Netflix, or Discord, the HUD displays a protective shield and withholds distractions to encourage continued procrastination.*
-
-![HUD Floating over YouTube Slacking Session](images/1.png)
 
 ---
 
